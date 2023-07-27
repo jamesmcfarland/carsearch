@@ -27,6 +27,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center ">
       <div className="flex items-center justify-between gap-4">
         <h1 className="font-bold text-5xl my-4">carsearch</h1>
+
         <GithubButton />
         <ThemeToggle />
       </div>
